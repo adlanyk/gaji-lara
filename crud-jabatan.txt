@@ -1,3 +1,5 @@
 Rencana pembuatan 
 
 - crud jabatan dengan framework laravel dan livewire
+  detail jabatan
+  tes
